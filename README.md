@@ -1,4 +1,4 @@
 NEW PROJECT 
 
-<a href="tattoofestiasi.ro">tattoofestiasi.ro</a>
+<a href="tattoofestiasi.ro" target="_blank">tattoofestiasi.ro</a>
 
